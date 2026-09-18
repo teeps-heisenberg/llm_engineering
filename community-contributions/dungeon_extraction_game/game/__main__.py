@@ -1,5 +1,6 @@
 """AI Mastered Dungeon Extraction Game main entrypoint module."""
 
+import utils.session
 from logging import getLogger
 
 from .config import GAME_CONFIG, UI_CONFIG
